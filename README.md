@@ -2,6 +2,7 @@
 
 Welcome to **GmailGenie**! ✨ This tool automates the process of creating Gmail accounts using Python, seamlessly integrating with SMS activation services and CAPTCHA solvers to make the account creation process quicker and more efficient.
 
+![GmailGenie](GmailGenieRed.png?raw=true)
 ---
 
 ## Features 🚀
